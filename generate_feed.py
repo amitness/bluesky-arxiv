@@ -94,6 +94,7 @@ def filter_item(item: FeedViewPost) -> bool:
             "betterhn50.e-work.xyz",
             "hnbot.gsuscs.xyz",
             "hn100.bsky.social",
+            "ministryofai.bsky.social",
         )
     ):
         return False
