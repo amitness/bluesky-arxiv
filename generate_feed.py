@@ -88,6 +88,12 @@ def filter_item(item: FeedViewPost) -> bool:
             "paperposterbot.bsky.social",
             "optb0t.bsky.social",
             "ericzzj.bsky.social",
+            "hackernewstop5.bsky.social",
+            "hnws.bsky.social",
+            "paper.bsky.social",
+            "betterhn50.e-work.xyz",
+            "hnbot.gsuscs.xyz",
+            "hn100.bsky.social",
         )
     ):
         return False
